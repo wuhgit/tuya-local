@@ -119,6 +119,7 @@
 - Sensei Air Conditioner
 - Star-Light air conditioner (also confirmed to work with Polar branded devices)
 - Suntec Wellness Coolfixx portable air conditioner
+- Teknopoint Idra Skiv air conditioner
 - Tesla Smart TAF and AUX series air conditioners
 - TroniTechnik Hellnar Klimagerät
 - Trotec PAC-W 2600 SH heat pump
@@ -326,6 +327,7 @@
 - Duux Bright air purifier
 - essentials portable air purifier
 - Himox H05 and H06 air purifiers
+- Honeywell Air Touch P2 Air Purifier
 - Hosome air purifier
 - iHunt 400m³/h air purifier
 - iHunt 50m³/h air purifier
@@ -756,6 +758,7 @@ of device.
 - Moes WS-USR-2C double curtain switch with backlight
 - Moes WS-Y-EUC curtain switch with backlight and timing control
 - QS-WIFI-C01(BK) curtain module
+- QS-WIFI-C02 dual curtain module
 - SHerko curtain motor
 - SmartCurtains A-series ACS-WT curtain motor (may work for other models)
 - Wistar roller blind controller
@@ -859,6 +862,7 @@ port and password.
 - Nedis outdoor camera
 - Pinelake BF02 birdfeeder camera
 - RL video intercom (reported unable to connect)
+- SC116-WZ3A PTZ camera
 
 ### Alarm control panels
 
@@ -909,7 +913,8 @@ port and password.
 - Rojeco PTM-001 pet feeder (two versions)
 - Sobralik pet fountain
 - Tesla Smart pet feeder
-- Tonepie T1PRO automatic cat litter box
+- Tonepie T1PRO cat litter box
+- Tonepie T1 Pro MAX cat litter box
 - V330L pet feeder
 - Vevor 76L self-cleaning litter box
 - WellToBe Automatic Pet Feeder (WB S36D)
